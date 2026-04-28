@@ -2,7 +2,7 @@
 ### Evidence from Open Government Data and Machine Learning
 
 > **Master's Thesis — NOVA IMS, April 2026**  
-> Author: João Marques · [joaomarques2003@sapo.pt](mailto:joaoluismarques2003@gmail.com)
+> Author: João Marques · [joaoluismarques2003@gmail.com](mailto:joaoluismarques2003@gmail.com)
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/Champion-XGBoost-orange?logo=xgboost)](https://xgboost.readthedocs.io/)
