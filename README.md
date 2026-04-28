@@ -224,7 +224,7 @@ If you use this code or build upon this research, please cite:
 
 ```bibtex
 @mastersthesis{marques2026green,
-  author    = {João Marques},
+  author    = {João Luís Marques},
   title     = {The Green Premium in the UK Housing Market: Evidence from Open Government Data and Machine Learning},
   school    = {NOVA Information Management School (NOVA IMS)},
   year      = {2026},
